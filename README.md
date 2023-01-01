@@ -1,4 +1,4 @@
-# Autonomous_RC-Car
+# Autonomous RC-Car
 
 ## Description
 This project uses the same idea as NASA's rovers going on missions to explore surfeces like Mars, Moon, and astroids. Rovers on other surfaces don't have GPS and navigation systems like we do here on Earth. So they use sensors and mapping softwares so the rover knows where to go and what to avoid in real-time.\
