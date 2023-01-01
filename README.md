@@ -18,5 +18,9 @@ TBH
 TBH
 
 
-## Credits
-XxxdonutxxX
+## Currently in the Work
+  - Settings up the sockets and GUI
+    - Use Swift GUI for Mac and use sockets to establish connection between the server on the machine and the Raspberry Pi.
+  - Setting up image recognition
+    - Set up a machine learning algorithm that knows stationry objects. And if there is an object that it can't identify, goes to next step.
+    - If it reaches this step, it means it couldn't identify they object. So it watches it for 2 seconds. If no movements detected after that, it registers it as stationary object. In either way, it takes a screenshot of the object and stores it in a folder called "unidetefied objects". These objects will be then labeled as stationary or moving object for the machine learning to detect them. 
