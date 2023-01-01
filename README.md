@@ -11,11 +11,11 @@ Currently, this application will only run on Mac because of Swift
 
 
 ## How to Install and Run the Project
-TBH
+TBA
 
 
 ## How to Use the Project
-TBH
+TBA
 
 
 ## Currently in the Work
